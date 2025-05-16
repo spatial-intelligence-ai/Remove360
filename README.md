@@ -1,3 +1,3 @@
 # Remove360
 
-Evaluation framework to measure semantic residuals after object removal in 3D Gaussian Splatting.
+Evaluation framework to measure semantic residuals after object removal in 3D
